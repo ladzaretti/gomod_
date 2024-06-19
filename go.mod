@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.27
-	github.com/aws/aws-sdk-go-v2/service/ecr v1.20.2
+	github.com/aws/aws-sdk-go-v2/service/ecr v1.29.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.36.0
 	github.com/docker/distribution v2.8.2+incompatible
 	github.com/docker/docker v23.0.6+incompatible
